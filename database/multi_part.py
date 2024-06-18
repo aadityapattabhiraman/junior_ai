@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from azure.storage.blob import BlobServiceClient, BlobClient, ContentSettings
+from azure.storage.blob import BlobServiceClient, BlobClient, BlobBlock
 import os
 
 # Replace with your actual connection string and blob details
