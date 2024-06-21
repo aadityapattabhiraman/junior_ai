@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Video Streaming</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+</head>
+<body>
+    <video id="video-player" controls></video>
+    <script>
+        const videoElement = document.getElementById('video-player');
+        let startByte = 0;
+
+        function loadNextChunk() {
+            $.ajax({
+                url: `/video_chunk/${startByte}`,
+                dataType: 'blob',
+                success: function(data) {
+                    const url = window.URL.createObjectURL(data);
+                    videoElement.src = url;
+                    startByte += data.size;
+
+                    if ($(data).text().indexOf('error') !== -1) {
+                        console.error('Error fetching chunk');
+                        return;
+                    }
+
+                    videoElement.onloadedmetadata = function() {
+                        videoElement.play();
+                    };
+                },
+                error: function(error) {
+                    console.error('Error fetching chunk:', error);
+                }
+            });
+        }
+
+        loadNextChunk();
+
+        videoElement.onended = function() {
+            // Handle video end (optional: replay, etc.)
+        };
+    </script>
+</body>
+</html>
