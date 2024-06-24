@@ -40,6 +40,7 @@ def hey(aud, gender):
     )
 
     result = pipe(aud,generate_kwargs={"task": "translate"})
+    del model
     torch.cuda.empty_cache()
     gc.collect()
     torch.cuda.empty_cache()
@@ -81,3 +82,4 @@ def hey(aud, gender):
         tgt_se=target_se, 
         output_path="audio.wav",
         message=encode_message)
+    del model

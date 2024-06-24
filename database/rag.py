@@ -54,6 +54,7 @@ def rag(prompt: str) -> str:
     llm_chain = LLMChain(prompt=prompt, llm=llm)
 
     response = llm_chain.run({"context" : context, "question" :q})
+    del llm
     answer = response.split("\n")
     answer = "\n".join(answer[-2:])
 
