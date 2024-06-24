@@ -2,8 +2,9 @@
 
 import os
 from azure.storage.blob import BlobServiceClient, ContentSettings
+import time
 
-
+# this function uploads a file to Azure Blob Storage and also streams it back
 def upload_and_stream(local_file_path: str):
 
     connection_string = os.getenv("AZURE_STORAGE_CONNECTION_STRING")
@@ -19,10 +20,15 @@ def upload_and_stream(local_file_path: str):
 
     with open(file=local_file_path, mode="rb") as data:
 
-        container_client.upload_blob(name=blob_name, data=data, overwrite=True, content_settings=content_settings)
+        container_client.upload_blob(name=blob_name, data=data, overwrite=True, 
+            content_settings=content_settings)
 
+    
     return endpoint + container_name + "/" + blob_name
 
 
 if __name__ == '__main__':
-    print(upload_and_stream("/home/akugyo/Crab Rave.mp4"))
+    start = time.time()
+    print(upload_and_stream("/home/akugyo/result.mp4"))
+    stop = time.time()
+    print(stop-start)
