@@ -1,0 +1,139 @@
+Region,Groups,Division,Indicator,Category,Type,JUL,AUG,SEP,OCT,NOV,DEC,JAN,FEB,MAR,APR,MAY,JUN
+APAC,AIG - Analytical,Chromatography,Gross Profit,,Actual,2845,1702,3323,1822,2300,2847,2576,2648,2763,3136,2497,2561
+APAC,AIG - Analytical,Chromatography,Gross Profit,,Target,2188,2745,3224,2651,1915,1979,2192,2802,1825,2919,2706,1698
+APAC,AIG - Analytical,Chromatography,Gross Profit,,Last Year,2178,2728,2387,2230,3339,2322,2555,1894,2164,2194,2544,2719
+APAC,AIG - Analytical,Analysis Division,Operating Profit(EBIT),,Actual,1822,641,2153,641,1134,1769,1388,1548,1685,1937,1412,1383
+APAC,AIG - Analytical,Analysis Division,Operating Profit(EBIT),,Target,1149,1587,2172,1494,892,973,1086,1800,695,1745,1656,633
+APAC,AIG - Analytical,Analysis Division,Operating Profit(EBIT),,Last Year,1060,1608,1384,1182,2316,1308,1448,833,988,998,1540,1536
+APAC,CRG - Clinical,Development,Total Revenue,,Actual,9297,8600,9429,8200,9047,8958,9178,8681,9211,9409,8916,9389
+APAC,CRG - Clinical,Development,Total Revenue,,Target,8958,8894,9382,9163,8811,8662,8705,9171,8617,9355,9444,8506
+APAC,CRG - Clinical,Development,Total Revenue,,Last Year,8832,9068,8712,8910,9404,8587,8637,8671,9102,8769,9007,9071
+APAC,GSG - Genetic,next-gen,Cost Of Goods Sold,,Actual,6452,6898,6106,6378,6747,6121,6602,6033,6448,6273,6419,6828
+APAC,GSG - Genetic,next-gen,Cost Of Goods Sold,,Target,6780,6149,6158,6512,6896,6683,6513,6369,6792,6436,6738,6808
+APAC,GSG - Genetic,next-gen,Cost Of Goods Sold,,Last Year,6654,6340,6325,6680,6065,6265,6082,6777,6938,6575,6463,6352
+APAC,GSG - Genetic,Solutions,Total Operating Expense,,Actual,1023,1061,1170,1181,1166,1078,1188,1100,1078,1199,1085,1178
+APAC,GSG - Genetic,Solutions,Total Operating Expense,,Target,1039,1158,1052,1157,1023,1006,1106,1002,1130,1174,1050,1065
+APAC,GSG - Genetic,Solutions,Total Operating Expense,,Last Year,1118,1120,1003,1048,1023,1014,1107,1061,1176,1196,1004,1183
+APAC,BPG ,Gene Therapy,Other Non Operatng Income/Expense,,Actual,71,89,50,61,66,88,76,74,76,74,54,65
+APAC,BPG ,Gene Therapy,Other Non Operatng Income/Expense,,Target,70,69,73,76,88,53,59,50,59,57,90,87
+APAC,BPG ,Gene Therapy,Other Non Operatng Income/Expense,,Last Year,89,79,61,55,55,80,85,69,58,84,62,52
+APAC,SDG - Specialty,Diagnostics,Finance Expense,,Actual,536,294,348,416,337,345,487,313,221,297,427,370
+APAC,SDG - Specialty,Diagnostics,Finance Expense,,Target,160,524,232,471,281,226,298,567,359,410,403,529
+APAC,SDG - Specialty,Diagnostics,Finance Expense,,Last Year,367,432,90,509,376,338,376,399,234,252,400,419
+APAC,SDG - Specialty,Market Division,Net Profit Before Tax,,Actual,1358,436,1855,286,863,1512,977,1310,1540,1714,1089,1079
+APAC,SDG - Specialty,Market Division,Net Profit Before Tax,,Target,1059,1132,2013,1100,700,800,847,1284,395,1392,1343,191
+APAC,SDG - Specialty,Market Division,Net Profit Before Tax,,Last Year,783,1255,1356,728,1995,1051,1157,504,812,830,1202,1169
+APAC,SDG - Specialty,Market Division,Net Operating Cashflow,,Actual,107,236,-106,179,235,205,239,-254,281,221,279,132
+APAC,LSLPG - Life,Sciences and Lab,HeadCount,,Male,56,55,54,54,54,54,57,59,58,57,57,56
+APAC,LSLPG - Life,Sciences and Lab,HeadCount,,Female,75,74,76,75,78,77,75,74,73,71,70,70
+APAC,LSLPG - Life,Sciences and Lab,HeadCount,,Last Year,131,126,135,132,127,130,135,125,125,134,130,125
+APAC,CRG - Clinical,Development,Receivable Ageing,,<30days,510,522,540,510,540,510,516,540,510,540,510,540
+APAC,CRG - Clinical,Development,Receivable Ageing,,<60days,383,392,405,383,405,383,387,405,383,405,383,405
+APAC,LSLPG - Life,BioProduction,Receivable Ageing,,<90days,255,261,270,255,270,255,258,270,255,270,255,270
+APAC,LSLPG - Life,BioProduction,Receivable Ageing,,>90days,128,131,135,128,135,128,129,135,128,135,128,135
+APAC,PSG - Pharma,Trials Division,Days Receivable Outstanding,,Actual,81,39,94,53,99,29,58,87,40,110,89,93
+APAC,PSG - Pharma,Product Division,Days Inventory outstanding,,Actual,30,86,33,79,33,43,68,84,74,61,37,64
+APAC,PSG - Pharma,Product Division,Inventory,,Actual,6767,5678,6789,9876,9090,8765,9087,6543,7865,8976,9876,8765
+APAC,PSG - Pharma,Product Division,Employee Cost,,Actual,512,531,585,591,583,539,594,550,539,600,543,589
+APAC,AIG - Analytical,Chromatography,Sales,AIG - Analytical,Actual,3254,3010,3300,2870,3166,3193,3112,3038,3224,3293,3121,3285
+APAC,AIG - Analytical,Chromatography,Sales,AIG - Analytical,Target,3139,3113,3284,3207,3084,3032,3047,3210,3015,3274,3305,2977
+APAC,CRG - Clinical,Development,Sales,CRG - Clinical,Actual,2324,2150,2357,2050,2262,2242,2295,2170,2303,2352,2229,2347
+APAC,CRG - Clinical,Development,Sales,CRG - Clinical,Target,2063,2046,2158,2107,2027,1992,2002,2109,1982,2152,2172,1956
+APAC,GSG - Genetic,next-gen,Sales,GSG - Genetic,Actual,1859,1720,1886,1540,1809,1794,1835,1736,1842,1882,1783,1873
+APAC,GSG - Genetic,next-gen,Sales,GSG - Genetic,Target,1525,1512,1595,1558,1495,1473,1480,1559,1455,1590,1505,1445
+APAC,SDG - Specialty,Diagnostics,Sales,SDG - Specialty,Actual,1395,1290,1414,1230,1357,1345,1377,1302,1382,1411,1337,1405
+APAC,SDG - Specialty,Diagnostics,Sales,SDG - Specialty,Target,1514,1601,1689,1649,1586,1599,1387,1651,1551,1684,1700,1531
+APAC,PSG - Pharma,Trials Division,Sales,PSG - Pharma,Actual,455,430,471,410,432,448,459,434,461,470,445,469
+APAC,PSG - Pharma,Trials Division,Sales,PSG - Pharma,Target,625,623,557,641,617,606,509,542,503,633,661,395
+EMEA,AIG - Analytical,Chromatography,Gross Profit,,Actual,2945,1802,3423,1922,2400,2947,2676,2748,2863,3236,2597,2661
+EMEA,AIG - Analytical,Chromatography,Gross Profit,,Target,2288,2845,3324,2751,2015,2079,2292,2902,1925,3019,2806,1798
+EMEA,AIG - Analytical,Chromatography,Gross Profit,,Last Year,2278,2828,2487,2330,3439,2422,2655,1994,2264,2294,2644,2819
+EMEA,AIG - Analytical,Analysis Division,Operating Profit(EBIT),,Actual,1922,741,2253,741,1234,1869,1488,1648,1785,2037,1512,1483
+EMEA,AIG - Analytical,Analysis Division,Operating Profit(EBIT),,Target,1249,1687,2272,1594,992,1073,1186,1900,795,1845,1756,733
+EMEA,AIG - Analytical,Analysis Division,Operating Profit(EBIT),,Last Year,1160,1708,1484,1282,2416,1408,1548,933,1088,1098,1640,1636
+EMEA,CRG - Clinical,Development,Total Revenue,,Actual,9397,8700,9529,8300,9147,9058,9278,8781,9311,9509,9016,9489
+EMEA,CRG - Clinical,Development,Total Revenue,,Target,9058,8994,9482,9263,8911,8762,8805,9271,8717,9455,9544,8606
+EMEA,CRG - Clinical,Development,Total Revenue,,Last Year,8932,9168,8812,9010,9504,8687,8737,8771,9202,8869,9107,9171
+EMEA,GSG - Genetic,next-gen,Cost Of Goods Sold,,Actual,6552,6998,6206,6478,6847,6221,6702,6133,6548,6373,6519,6928
+EMEA,GSG - Genetic,next-gen,Cost Of Goods Sold,,Target,6880,6249,6258,6612,6996,6783,6613,6469,6892,6536,6838,6908
+EMEA,GSG - Genetic,next-gen,Cost Of Goods Sold,,Last Year,6754,6440,6425,6780,6165,6365,6182,6877,7038,6675,6563,6452
+EMEA,GSG - Genetic,Solutions,Total Operating Expense,,Actual,1123,1161,1270,1281,1266,1178,1288,1200,1178,1299,1185,1278
+EMEA,GSG - Genetic,Solutions,Total Operating Expense,,Target,1139,1258,1152,1257,1123,1106,1206,1102,1230,1274,1150,1165
+EMEA,GSG - Genetic,Solutions,Total Operating Expense,,Last Year,1218,1220,1103,1148,1123,1114,1207,1161,1276,1296,1104,1283
+EMEA,BPG ,Gene Therapy,Other Non Operatng Income/Expense,,Actual,171,189,150,161,166,188,176,174,176,174,154,165
+EMEA,BPG ,Gene Therapy,Other Non Operatng Income/Expense,,Target,170,169,173,176,188,153,159,150,159,157,190,187
+EMEA,BPG ,Gene Therapy,Other Non Operatng Income/Expense,,Last Year,189,179,161,155,155,180,185,169,158,184,162,152
+EMEA,SDG - Specialty,Diagnostics,Finance Expense,,Actual,636,394,448,516,437,445,587,413,321,397,527,470
+EMEA,SDG - Specialty,Diagnostics,Finance Expense,,Target,260,624,332,571,381,326,398,667,459,510,503,629
+EMEA,SDG - Specialty,Diagnostics,Finance Expense,,Last Year,467,532,190,609,476,438,476,499,334,352,500,519
+EMEA,SDG - Specialty,Market Division,Net Profit Before Tax,,Actual,1458,536,1955,386,963,1612,1077,1410,1640,1814,1189,1179
+EMEA,SDG - Specialty,Market Division,Net Profit Before Tax,,Target,1159,1232,2113,1200,800,900,947,1384,495,1492,1443,291
+EMEA,SDG - Specialty,Market Division,Net Profit Before Tax,,Last Year,883,1355,1456,828,2095,1151,1257,604,912,930,1302,1269
+EMEA,SDG - Specialty,Market Division,Net Operating Cashflow,,Actual,207,336,-6,279,335,305,339,-154,381,321,379,232
+EMEA,LSLPG - Life,Sciences and Lab,HeadCount,,Male,156,155,154,154,154,154,157,159,158,157,157,156
+EMEA,LSLPG - Life,Sciences and Lab,HeadCount,,Female,175,174,176,175,178,177,175,174,173,171,170,170
+EMEA,LSLPG - Life,Sciences and Lab,HeadCount,,Last Year,231,226,235,232,227,230,235,225,225,234,230,225
+EMEA,CRG - Clinical,Development,Receivable Ageing,,<30days,610,622,640,610,640,610,616,640,610,640,610,640
+EMEA,CRG - Clinical,Development,Receivable Ageing,,<60days,483,492,505,483,505,483,487,505,483,505,483,505
+EMEA,LSLPG - Life,BioProduction,Receivable Ageing,,<90days,355,361,370,355,370,355,358,370,355,370,355,370
+EMEA,LSLPG - Life,BioProduction,Receivable Ageing,,>90days,228,231,235,228,235,228,229,235,228,235,228,235
+EMEA,PSG - Pharma,Trials Division,Days Receivable Outstanding,,Actual,181,139,194,153,199,129,158,187,140,210,189,193
+EMEA,PSG - Pharma,Product Division,Days Inventory outstanding,,Actual,130,186,133,179,133,143,168,184,174,161,137,164
+EMEA,PSG - Pharma,Product Division,Inventory,,Actual,6867,5778,6889,9976,9190,8865,9187,6643,7965,9076,9976,8865
+EMEA,PSG - Pharma,Product Division,Employee Cost,,Actual,612,631,685,691,683,639,694,650,639,700,643,689
+EMEA,AIG - Analytical,Chromatography,Sales,AIG - Analytical,Actual,3354,3110,3400,2970,3266,3293,3212,3138,3324,3393,3221,3385
+EMEA,AIG - Analytical,Chromatography,Sales,AIG - Analytical,Target,3239,3213,3384,3307,3184,3132,3147,3310,3115,3374,3405,3077
+EMEA,CRG - Clinical,Development,Sales,CRG - Clinical,Actual,2424,2250,2457,2150,2362,2342,2395,2270,2403,2452,2329,2447
+EMEA,CRG - Clinical,Development,Sales,CRG - Clinical,Target,2163,2146,2258,2207,2127,2092,2102,2209,2082,2252,2272,2056
+EMEA,GSG - Genetic,next-gen,Sales,GSG - Genetic,Actual,1959,1820,1986,1640,1909,1894,1935,1836,1942,1982,1883,1973
+EMEA,GSG - Genetic,next-gen,Sales,GSG - Genetic,Target,1625,1612,1695,1658,1595,1573,1580,1659,1555,1690,1605,1545
+EMEA,SDG - Specialty,Diagnostics,Sales,SDG - Specialty,Actual,1495,1390,1514,1330,1457,1445,1477,1402,1482,1511,1437,1505
+EMEA,SDG - Specialty,Diagnostics,Sales,SDG - Specialty,Target,1614,1701,1789,1749,1686,1699,1487,1751,1651,1784,1800,1631
+EMEA,PSG - Pharma,Trials Division,Sales,PSG - Pharma,Actual,555,530,571,510,532,548,559,534,561,570,545,569
+EMEA,PSG - Pharma,Trials Division,Sales,PSG - Pharma,Target,725,723,657,741,717,706,609,642,603,733,761,495
+North America,AIG - Analytical,Chromatography,Gross Profit,,Actual,3192,2049,3670,2169,2647,3194,2923,2995,3110,3483,2844,2908
+North America,AIG - Analytical,Chromatography,Gross Profit,,Target,2535,3092,3571,2998,2262,2326,2539,3149,2172,3266,3053,2045
+North America,AIG - Analytical,Chromatography,Gross Profit,,Last Year,2525,3075,2734,2577,3686,2669,2902,2241,2511,2541,2891,3066
+North America,AIG - Analytical,Analysis Division,Operating Profit(EBIT),,Actual,2169,988,2500,988,1481,2116,1735,1895,2032,2284,1759,1730
+North America,AIG - Analytical,Analysis Division,Operating Profit(EBIT),,Target,1496,1934,2519,1841,1239,1320,1433,2147,1042,2092,2003,980
+North America,AIG - Analytical,Analysis Division,Operating Profit(EBIT),,Last Year,1407,1955,1731,1529,2663,1655,1795,1180,1335,1345,1887,1883
+North America,CRG - Clinical,Development,Total Revenue,,Actual,9644,8947,9776,8547,9394,9305,9525,9028,9558,9756,9263,9736
+North America,CRG - Clinical,Development,Total Revenue,,Target,9305,9241,9729,9510,9158,9009,9052,9518,8964,9702,9791,8853
+North America,CRG - Clinical,Development,Total Revenue,,Last Year,9179,9415,9059,9257,9751,8934,8984,9018,9449,9116,9354,9418
+North America,GSG - Genetic,next-gen,Cost Of Goods Sold,,Actual,6799,7245,6453,6725,7094,6468,6949,6380,6795,6620,6766,7175
+North America,GSG - Genetic,next-gen,Cost Of Goods Sold,,Target,7127,6496,6505,6859,7243,7030,6860,6716,7139,6783,7085,7155
+North America,GSG - Genetic,next-gen,Cost Of Goods Sold,,Last Year,7001,6687,6672,7027,6412,6612,6429,7124,7285,6922,6810,6699
+North America,GSG - Genetic,Solutions,Total Operating Expense,,Actual,1370,1408,1517,1528,1513,1425,1535,1447,1425,1546,1432,1525
+North America,GSG - Genetic,Solutions,Total Operating Expense,,Target,1386,1505,1399,1504,1370,1353,1453,1349,1477,1521,1397,1412
+North America,GSG - Genetic,Solutions,Total Operating Expense,,Last Year,1465,1467,1350,1395,1370,1361,1454,1408,1523,1543,1351,1530
+North America,BPG ,Gene Therapy,Other Non Operatng Income/Expense,,Actual,418,436,397,408,413,435,423,421,423,421,401,412
+North America,BPG ,Gene Therapy,Other Non Operatng Income/Expense,,Target,417,416,420,423,435,400,406,397,406,404,437,434
+North America,BPG ,Gene Therapy,Other Non Operatng Income/Expense,,Last Year,436,426,408,402,402,427,432,416,405,431,409,399
+North America,SDG - Specialty,Diagnostics,Finance Expense,,Actual,883,641,695,763,684,692,834,660,568,644,774,717
+North America,SDG - Specialty,Diagnostics,Finance Expense,,Target,507,871,579,818,628,573,645,914,706,757,750,876
+North America,SDG - Specialty,Diagnostics,Finance Expense,,Last Year,714,779,437,856,723,685,723,746,581,599,747,766
+North America,SDG - Specialty,Market Division,Net Profit Before Tax,,Actual,1705,783,2202,633,1210,1859,1324,1657,1887,2061,1436,1426
+North America,SDG - Specialty,Market Division,Net Profit Before Tax,,Target,1406,1479,2360,1447,1047,1147,1194,1631,742,1739,1690,538
+North America,SDG - Specialty,Market Division,Net Profit Before Tax,,Last Year,1130,1602,1703,1075,2342,1398,1504,851,1159,1177,1549,1516
+North America,SDG - Specialty,Market Division,Net Operating Cashflow,,Actual,454,583,241,526,582,552,586,93,628,568,626,479
+North America,LSLPG - Life,Sciences and Lab,HeadCount,,Male,403,402,401,401,401,401,404,406,405,404,404,403
+North America,LSLPG - Life,Sciences and Lab,HeadCount,,Female,422,421,423,422,425,424,422,421,420,418,417,417
+North America,LSLPG - Life,Sciences and Lab,HeadCount,,Last Year,478,473,482,479,474,477,482,472,472,481,477,472
+North America,CRG - Clinical,Development,Receivable Ageing,,<30days,857,869,887,857,887,857,863,887,857,887,857,887
+North America,CRG - Clinical,Development,Receivable Ageing,,<60days,730,739,752,730,752,730,734,752,730,752,730,752
+North America,LSLPG - Life,BioProduction,Receivable Ageing,,<90days,602,608,617,602,617,602,605,617,602,617,602,617
+North America,LSLPG - Life,BioProduction,Receivable Ageing,,>90days,475,478,482,475,482,475,476,482,475,482,475,482
+North America,PSG - Pharma,Trials Division,Days Receivable Outstanding,,Actual,428,386,441,400,446,376,405,434,387,457,436,440
+North America,PSG - Pharma,Product Division,Days Inventory outstanding,,Actual,377,433,380,426,380,390,415,431,421,408,384,411
+North America,PSG - Pharma,Product Division,Inventory,,Actual,7114,6025,7136,10223,9437,9112,9434,6890,8212,9323,10223,9112
+North America,PSG - Pharma,Product Division,Employee Cost,,Actual,859,878,932,938,930,886,941,897,886,947,890,936
+North America,AIG - Analytical,Chromatography,Sales,AIG - Analytical,Actual,3601,3357,3647,3217,3513,3540,3459,3385,3571,3640,3468,3632
+North America,AIG - Analytical,Chromatography,Sales,AIG - Analytical,Target,3486,3460,3631,3554,3431,3379,3394,3557,3362,3621,3652,3324
+North America,CRG - Clinical,Development,Sales,CRG - Clinical,Actual,2671,2497,2704,2397,2609,2589,2642,2517,2650,2699,2576,2694
+North America,CRG - Clinical,Development,Sales,CRG - Clinical,Target,2410,2393,2505,2454,2374,2339,2349,2456,2329,2499,2519,2303
+North America,GSG - Genetic,next-gen,Sales,GSG - Genetic,Actual,2206,2067,2233,1887,2156,2141,2182,2083,2189,2229,2130,2220
+North America,GSG - Genetic,next-gen,Sales,GSG - Genetic,Target,1872,1859,1942,1905,1842,1820,1827,1906,1802,1937,1852,1792
+North America,SDG - Specialty,Diagnostics,Sales,SDG - Specialty,Actual,1742,1637,1761,1577,1704,1692,1724,1649,1729,1758,1684,1752
+North America,SDG - Specialty,Diagnostics,Sales,SDG - Specialty,Target,1861,1948,2036,1996,1933,1946,1734,1998,1898,2031,2047,1878
+North America,PSG - Pharma,Trials Division,Sales,PSG - Pharma,Actual,802,777,818,757,779,795,806,781,808,817,792,816
+North America,PSG - Pharma,Trials Division,Sales,PSG - Pharma,Target,972,970,904,988,964,953,856,889,850,980,1008,742
